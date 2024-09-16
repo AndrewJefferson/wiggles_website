@@ -6,18 +6,31 @@ body {
 
 header {
     color:#0F7CBF;
+    height: 165px;
 }
 
 nav {
     background-color: #F22233;
     color: #fff;
+    height: 30px;
 }
 
 footer {
     background-color: #0F7CBF;
     color: #fff;
+    height: 75px;
 }
 
 h2 {
     color: #67308C;
+}
+
+img {
+    width: 730px;
+    float: right;
+}
+
+header img {
+    width: 227px;
+    float: left;
 }

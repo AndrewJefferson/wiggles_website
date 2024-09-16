@@ -1,6 +1,19 @@
 body {
-    background-color: bisque;
+    background-color: #FFF8B8;
     width: 80%;
     margin: auto;
-    color: brown;
+}
+
+header {
+    color:#0F7CBF;
+}
+
+nav {
+    background-color: #F22233;
+    color: #fff;
+}
+
+footer {
+    background-color: #0F7CBF;
+    color: #fff;
 }

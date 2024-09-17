@@ -3,7 +3,7 @@
 body {
     background-color: #FFF8B8;
     width: 90%;
-    margin: 0px auto;
+    margin: auto;
     font-family: "Open Sans";
     font-size: 16px;
 }
@@ -64,8 +64,7 @@ header img {
 nav a {
     text-decoration: none;
     color: #fff;
-    padding-left: 15px;
-    padding-right: 15px;
+    padding: 1px; 15px;
 }
 
 nav a:hover {

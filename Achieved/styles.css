@@ -4,12 +4,14 @@ body {
     background-color: #FFF8B8;
     width: 90%;
     margin: auto;
-    font: 16px "Open Sans";
+    font-family: "Open Sans";
+    font-size: 16px;
 }
 
 header {
     color:#0F7CBF;
     height: 165px;
+    line-height: 165px;
     text-align: center;
     margin-right: 227px;
 }
@@ -18,6 +20,7 @@ nav {
     background-color: #F22233;
     color: #fff;
     height: 30px;
+    line-height: 30px;
     font-size: 20px;
     font-weight: bold;
     text-align: center;
@@ -27,32 +30,28 @@ footer {
     background-color: #0F7CBF;
     color: #fff;
     height: 75px;
+    line-height: 75px;
     text-align: center;
     font-weight: bold;
 }
 
-aside {
-    text-align: center;
-}
-
-aside p {
-    margin: 0;
-    font-style: italic;
-}
-
 h1 {
-    font: bold 64px "Irish Grover";
+    font-family: "Irish Grover";
+    font-size: 64px;
+    margin-top: 0px;
 }
 
 h2 {
     color: #67308C;
-    font: bold 24px "Irish Grover";
+    font-family: "Irish Grover";
+    font-size: 24px;
 }
 
 img {
-    width: 100%;
-    max-width: 730px;
-    margin: 20px 0 0 20px
+    width: 730px;
+    float: right;
+    margin-top: 20px;
+    margin-left: 20px;
 }
 
 header img {
